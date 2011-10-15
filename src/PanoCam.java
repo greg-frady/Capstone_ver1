@@ -79,7 +79,7 @@ public class PanoCam
 
 
     /*Parameters:
-        -Cartesian point, 
+        -Cartesian point,,
     */
     public boolean isVisible(Point3D point, Point3D[] pCloud)
     {
